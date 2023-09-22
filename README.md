@@ -69,7 +69,7 @@ where `α > 0` is the shape parameter `β > 0` is the rate parameter.
 ## Usage
 
 ```javascript
-import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gamma-variance@esm/index.mjs';
+import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gamma-variance@v0.1.0-esm/index.mjs';
 ```
 
 #### variance( alpha, beta )
@@ -145,7 +145,7 @@ v = variance( 1.0, -1.0 );
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import EPS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-eps@esm/index.mjs';
-import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gamma-variance@esm/index.mjs';
+import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gamma-variance@v0.1.0-esm/index.mjs';
 
 var alpha;
 var beta;
