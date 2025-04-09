@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-07)
+## Unreleased (2025-04-09)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`e403884`](https://github.com/stdlib-js/stdlib/commit/e403884f1b3ac0a4bc7d0b3bc954e69273bba891) - **bench:** ensure NaN is not possible _(by Athan Reines)_
 -   [`d9a9405`](https://github.com/stdlib-js/stdlib/commit/d9a940585dd1beedc9a197abbe19943e8233f941) - **feat:** add C implementation for `stats/base/dists/gamma/variance` [(#3944)](https://github.com/stdlib-js/stdlib/pull/3944) _(by Aayush Khanna, Philipp Burckhardt, stdlib-bot)_
 -   [`c7860af`](https://github.com/stdlib-js/stdlib/commit/c7860af1896d84360294b65f3e37982ca631c435) - **bench:** refactor random number generation in `stats/base/dists/gamma` [(#4929)](https://github.com/stdlib-js/stdlib/pull/4929) _(by Karan Anand)_
 
@@ -47,9 +48,10 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
+-   Athan Reines
 -   Karan Anand
 -   Philipp Burckhardt
 
